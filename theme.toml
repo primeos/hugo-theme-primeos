@@ -1,17 +1,7 @@
-name = "hello-friend-ng"
+name = "primeos"
 license = "MIT"
-licenselink = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md"
-description = "A simple theme for Hugo. That's it."
-tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical"]
+licenselink = "https://github.com/primeos/hugo-theme-primeos/blob/master/LICENSE.txt"
+description = "A simple Hugo theme based on hello-friend-ng."
+tags = ["personal", "blog", "minimal"]
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.30
-
-[author]
-  name = "Djordje Atlialp"
-  homepage = "https://atlialp.com"
-  twitter = "https://twitter.com/rhazdon"
-
-[original]
-  name = "hello-friend"
-  homepage = "https://github.com/panr/hugo-theme-hello-friend"
-  repo = "https://github.com/panr/hugo-theme-hello-friend"
